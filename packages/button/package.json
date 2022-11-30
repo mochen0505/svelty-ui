@@ -1,0 +1,27 @@
+{
+  "name": "@svelty/button",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "author": "Mo Chen <mochen0505@hotmail.com>",
+  "license": "MIT",
+  "module": "dist/index.js",
+  "svelte": "lib/index.ts",
+  "files": [
+    "dist",
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@svelty/classnames": "^1.0.0",
+    "@svelty/loading": "^1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "svelty-ui",
+  "private": true,
+  "scripts": {
+    "dev": "cd packages/playground && vite dev",
+    "build-pg": "cd packages/playground && vite build",
+    "preview-pg": "cd packages/playground && vite preview",
+    "build": "sve build",
+    "test": "sve test"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "ie >= 9",
+    "not op_mini all"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.17.5",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-typescript": "^7.16.7",
+    "@commitlint/cli": "^16.2.1",
+    "@commitlint/config-conventional": "^16.2.1",
+    "@svelty/cli": "^1.1.0",
+    "@testing-library/svelte": "^3.0.3",
+    "@types/jest": "^27.4.1",
+    "babel-jest": "^27.5.1",
+    "babel-loader": "^8.2.3",
+    "conventional-changelog-cli": "^2.2.2",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^27.5.1",
+    "lerna": "^4.0.0",
+    "svelte": "^3.48.0",
+    "svelte-jester": "^2.3.2",
+    "svelte-loader": "^3.1.2"
+  }
+}

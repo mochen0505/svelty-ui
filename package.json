@@ -32,7 +32,6 @@
     "lerna": "^4.0.0",
     "svelte": "^3.48.0",
     "svelte-jester": "^2.3.2",
-    "svelte-loader": "^3.1.2",
-    "vite": "^3.1.0"
+    "svelte-loader": "^3.1.2"
   }
 }

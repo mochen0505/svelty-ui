@@ -1,6 +1,6 @@
 {
   "name": "@svelty/popup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "",
   "author": "Mo Chen <mochen0505@hotmail.com>",
@@ -18,7 +18,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@svelty/classnames": "^1.0.0"
+    "@svelty/classnames": "^1.0.1"
   },
   "devDependencies": {
     "typescript": "^4.6.3"

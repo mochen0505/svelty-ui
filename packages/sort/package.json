@@ -1,6 +1,6 @@
 {
   "name": "@svelty/sort",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "",
   "author": "Mo Chen <mochen0505@hotmail.com>",
@@ -21,6 +21,6 @@
     "typescript": "^4.6.3"
   },
   "dependencies": {
-    "@svelty/classnames": "^1.0.0"
+    "@svelty/classnames": "^1.0.1"
   }
 }

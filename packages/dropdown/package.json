@@ -1,6 +1,6 @@
 {
   "name": "@svelty/dropdown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "",
   "author": "Mo Chen <mochen0505@hotmail.com>",
@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@popperjs/core": "^2.11.5",
-    "@svelty/classnames": "^1.0.0"
+    "@svelty/classnames": "^1.0.1"
   },
   "devDependencies": {
     "typescript": "^4.6.3"

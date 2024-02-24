@@ -1,6 +1,6 @@
 {
   "name": "@svelty/nav",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "description": "",
   "author": "Mo Chen <mochen0505@hotmail.com>",
@@ -22,7 +22,7 @@
     "url": "https://github.com/mochen0505/svelty-ui.git"
   },
   "dependencies": {
-    "@svelty/classnames": "^1.0.1"
+    "@svelty/classnames": "^1.0.2"
   },
   "devDependencies": {
     "typescript": "^4.6.3"

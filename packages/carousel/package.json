@@ -17,6 +17,10 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mochen0505/svelty-ui.git"
+  },
   "dependencies": {
     "@svelty/classnames": "^1.0.1",
     "siema": "^1.5.1"
